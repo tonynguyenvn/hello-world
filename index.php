@@ -1,4 +1,5 @@
 <?php
+echo "Bai tap thuc hanh GIT tai GIT Hub"
 /**
  * CodeIgniter
  *
